@@ -1,0 +1,16 @@
+[package]
+name = "bullshit-rs"
+version = "0.1.0"
+authors = ["lictex_ <lictex@outlook.com>"]
+edition = "2018"
+description = "A BullshitGenerator implementation in Rust."
+repository = "https://github.com/xyning/bullshit-rs"
+homepage = "https://github.com/xyning/bullshit-rs"
+license-file = "LICENSE"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+json = "0.12.4"
+rand = "0.8.3"
